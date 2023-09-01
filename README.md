@@ -1,2 +1,0 @@
-# Diprella
-Login Page
